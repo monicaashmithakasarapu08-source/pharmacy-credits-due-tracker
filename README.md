@@ -1,0 +1,1 @@
+# Pharmacy Credits Due Tracker\n\nA web application for tracking pharmacy credits and payments.\n\n## Installation\n\n```bash\nnpm install\n```\n\n## Development\n\n```bash\nnpm run dev\n```
